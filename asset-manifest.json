@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BookiePedia/static/css/main.23c3d995.css",
+    "main.js": "/BookiePedia/static/js/main.e9fd35e6.js",
+    "static/media/random.png": "/BookiePedia/static/media/random.b244ddf4bcee2fef5bca.png",
+    "static/media/logo.png": "/BookiePedia/static/media/logo.14bce2267c3eec99c1fd.png",
+    "index.html": "/BookiePedia/index.html",
+    "main.23c3d995.css.map": "/BookiePedia/static/css/main.23c3d995.css.map",
+    "main.e9fd35e6.js.map": "/BookiePedia/static/js/main.e9fd35e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23c3d995.css",
+    "static/js/main.e9fd35e6.js"
+  ]
+}
