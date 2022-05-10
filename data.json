@@ -1,0 +1,735 @@
+ [{
+
+    "kind": "books#volume",
+    "id": "mSKJzQEACAAJ",
+    "etag": "Ze1hlSWDZV4",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/mSKJzQEACAAJ",
+    "volumeInfo": {
+        "title": "We Can Use the Computer!",
+        "authors": [
+            "Rachel Biheller Bunin"
+        ],
+        "publishedDate": "1994",
+        "description": "Designed to introduce students to basic computer concepts and applications.",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "OCLC:31063338"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=mSKJzQEACAAJ&dq=computer&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=mSKJzQEACAAJ&dq=computer&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/We_Can_Use_the_Computer.html?hl=&id=mSKJzQEACAAJ"
+    },
+    "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mSKJzQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Designed to introduce students to basic computer concepts and applications."
+    }
+},
+{
+    "kind": "books#volume",
+    "id": "yGeQtQEACAAJ",
+    "etag": "CQhj8fyp3yA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/yGeQtQEACAAJ",
+    "volumeInfo": {
+        "title": "Computer Book",
+        "authors": [
+            "Simson L. Garfinkel",
+            "Rachel Grunspan"
+        ],
+        "publisher": "Sterling Milestones",
+        "publishedDate": "2018-11-06",
+        "description": "With 250 illustrated landmark inventions, publications, and events--encompassing everything from ancient record-keeping devices to the latest technologies--this highly topical addition to the Sterling Milestones series takes a chronological journey through the history and future of computer science. The topics include the first spam message, Isaac Asimov's laws of robotics, early programming languages and operating systems such as BASIC and UNIX, the microcomputer revolution, hacking, virtual reality, and more.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "145492621X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781454926214"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 528,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=yGeQtQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=yGeQtQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=yGeQtQEACAAJ&dq=computer&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=yGeQtQEACAAJ&dq=computer&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Computer_Book.html?hl=&id=yGeQtQEACAAJ"
+    },
+    "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yGeQtQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "With 250 illustrated landmark inventions, publications, and events--encompassing everything from ancient record-keeping devices to the latest technologies--this highly topical addition to the Sterling Milestones series takes a chronological ..."
+    }
+},
+{
+    "kind": "books#volume",
+    "id": "bXOWDDJwcwsC",
+    "etag": "8qvCt75gChU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/bXOWDDJwcwsC",
+    "volumeInfo": {
+        "title": "Meet the Computer",
+        "authors": [
+            "Seymour Simon"
+        ],
+        "publisher": "Trophy Press",
+        "publishedDate": "1985",
+        "description": "Introduces the parts of a computer and explains how they work.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "0064450112"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9780064450119"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+            "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=bXOWDDJwcwsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=bXOWDDJwcwsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=bXOWDDJwcwsC&pg=PP1&dq=computer&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=bXOWDDJwcwsC&dq=computer&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Meet_the_Computer.html?hl=&id=bXOWDDJwcwsC"
+    },
+    "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bXOWDDJwcwsC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    }
+},
+{
+    "kind": "books#volume",
+    "id": "MBrzDwAAQBAJ",
+    "etag": "1TYQvXwlRtI",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/MBrzDwAAQBAJ",
+    "volumeInfo": {
+        "title": "OBJECTIVE Computer Awareness",
+        "authors": [
+            "Arihant Experts"
+        ],
+        "publisher": "Arihant Publications India limited",
+        "publishedDate": "2019-06-04",
+        "description": "Computer Awareness is an important section for various exams of the country including IBPS, SBI (Bank PO & Clerk), SSC, Railway, Police and many other state competitive exams. Hence, it comes as no surprise that having strong knowledge about computer plays an important role in getting success in exams. This book “Learn, Revise and Practice Computer Awareness” once again brings in the complete study material for Computer knowledge at one place for you. Designed on the basis of close considerations of various examinations’ syllabus and pattern, it serves as the most suitable read to understand computer awareness. It includes Chapterwise theories, Question Bank with each chapter, Chapterwise Past Years’ Questions and 5 Practice Sets for Complete Practice. Abbreviations and Glossary are also given at the end. Providing to-the-point, chapterwise study supported by definitions, examples, exercises and more, it promotes the best learning along with revision and practice to perform well in exams. TOC Introduction to Computer, Computer Architecture, Computer Hardware, Computer Memory, Data Representation, Computer Software, Operating System, Programming Concepts, Microsoft Windows, Microsoft Office, Database Concepts, Internet and its Services, Computer Security, Practice Sets (1-5), Abbreviations, Glossary",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9789313168805"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "9313168804"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 186,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=MBrzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=MBrzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=MBrzDwAAQBAJ&pg=PP1&dq=computer&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MBrzDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MBrzDwAAQBAJ"
+    },
+    "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+            "amount": 126,
+            "currencyCode": "INR"
+        },
+        "retailPrice": {
+            "amount": 126,
+            "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MBrzDwAAQBAJ&rdid=book-MBrzDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+            {
+                "finskyOfferType": 1,
+                "listPrice": {
+                    "amountInMicros": 126000000,
+                    "currencyCode": "INR"
+                },
+                "retailPrice": {
+                    "amountInMicros": 126000000,
+                    "currencyCode": "INR"
+                }
+            }
+        ]
+    },
+    "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/OBJECTIVE_Computer_Awareness-sample-pdf.acsm?id=MBrzDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MBrzDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This book “Learn, Revise and Practice Computer Awareness” once again brings in the complete study material for Computer knowledge at one place for you."
+    }
+},
+{
+    "kind": "books#volume",
+    "id": "Ad1QAAAAMAAJ",
+    "etag": "bvLidpKlJt0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Ad1QAAAAMAAJ",
+    "volumeInfo": {
+        "title": "Readings in Computer Architecture",
+        "authors": [
+            "Mark D. Hill",
+            "Norman P. Jouppi",
+            "Gurindar S. Sohi"
+        ],
+        "publisher": "Morgan Kaufmann",
+        "publishedDate": "2000",
+        "description": "Offering a carefully reviewed selection of over 50 papers illustrating the breadth and depth of computer architecture, this text includes insightful introductions to guide readers through the primary sources.",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "UOM:39015047854537"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 717,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Ad1QAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Ad1QAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=Ad1QAAAAMAAJ&q=computer&dq=computer&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=Ad1QAAAAMAAJ&dq=computer&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Readings_in_Computer_Architecture.html?hl=&id=Ad1QAAAAMAAJ"
+    },
+    "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ad1QAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "Offering a carefully reviewed selection of over 50 papers illustrating the breadth and depth of computer architecture, this text includes insightful introductions to guide readers through the primary sources."
+    }
+},
+{
+    "kind": "books#volume",
+    "id": "ElQAiRjtZC4C",
+    "etag": "6MmXpAJJMyk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ElQAiRjtZC4C",
+    "volumeInfo": {
+        "title": "Essential Computer Animation fast",
+        "subtitle": "How to Understand the Techniques and Potential of Computer Animation",
+        "authors": [
+            "John Vince"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2000-03-08",
+        "description": "For those who want to learn more about computer animation without being swamped with complex mathematics, this is the book to read! Beginning with the relationship between animation, the human visual system, and computers, Essential Computer Animation fast takes readers through a broad exploration of the subject. Readers will learn all about computer animation techniques; computer animation hardware; animation software, such as Softimage, Maya, 3D-Studio, MAX, and Lightwave; post-production techniques; and animation applications.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1852331410"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781852331412"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.9.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ElQAiRjtZC4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ElQAiRjtZC4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=ElQAiRjtZC4C&printsec=frontcover&dq=computer&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=ElQAiRjtZC4C&dq=computer&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Essential_Computer_Animation_fast.html?hl=&id=ElQAiRjtZC4C"
+    },
+    "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Essential_Computer_Animation_fast-sample-epub.acsm?id=ElQAiRjtZC4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Essential_Computer_Animation_fast-sample-pdf.acsm?id=ElQAiRjtZC4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ElQAiRjtZC4C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "For those who want to learn more about computer animation without being swamped with complex mathematics, this is the book to read!"
+    }
+},
+{
+    "kind": "books#volume",
+    "id": "0SD1mgEACAAJ",
+    "etag": "+d8wLfnfPvQ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/0SD1mgEACAAJ",
+    "volumeInfo": {
+        "title": "The Every Computer Performance Book",
+        "subtitle": "How to Avoid and Solve Performance Problems on the Computers You Work With",
+        "authors": [
+            "Bob Wescott",
+            "Anna Macijeski"
+        ],
+        "publisher": "Createspace Independent Pub",
+        "publishedDate": "2013-03-29",
+        "description": "This is a short, occasionally funny, book on how to solve and avoid application and/or computer performance problems. I wrote it to give back the knowledge, insights, tips, and tricks I was given over the last 25 years of my computing career. It shows practical ways to use key performance laws and gives well tested advice on how (and when) to do performance monitoring, capacity planning, load testing, and performance modeling. It works for any application or collection of computers because it teaches you how to decipher whatever meters they give you and how to discover more about those meters than the documentation reveals. This book covers the things that will always be true no matter what technology you are using. It will continue to be useful 20 years from now when today's technology, if it runs at all, will look as quaint as a mechanical cuckoo clock. There is no complex math required; yet it allows you to easily use some fairly advanced techniques. Simple arithmetic, and a spreadsheet program, is all that is required of you. Lastly, it helps with the human side of performance. It shows you how to get the help you need and how to present your findings (good or bad) all the way up to the CIO level.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "1482657759"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781482657753"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "pageCount": 222,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=0SD1mgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=0SD1mgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=0SD1mgEACAAJ&dq=computer&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=0SD1mgEACAAJ&dq=computer&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Every_Computer_Performance_Book.html?hl=&id=0SD1mgEACAAJ"
+    },
+    "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0SD1mgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This is a short, occasionally funny, book on how to solve and avoid application and/or computer performance problems."
+    }
+},
+{
+    "kind": "books#volume",
+    "id": "s4SoW3wa-LgC",
+    "etag": "eZiY+n6CuCY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/s4SoW3wa-LgC",
+    "volumeInfo": {
+        "title": "COMPUTER PROGRAMMING IN FORTRAN 77",
+        "subtitle": "INCLUDES INTRODUCTION TO FORTRAN 90",
+        "authors": [
+            "V. RAJARAMAN"
+        ],
+        "publisher": "PHI Learning Pvt. Ltd.",
+        "publishedDate": "1997-01-01",
+        "description": "This is a revised and enlarged version of the author's book which received wide acclamations in its earlier three editions. It provides a lucid and in-depth introduction to the programming language Fortran 77 which is widely used by scientists and engineers.The fourth edition is completely revised chapterwise and also minor corrections incorporated. A new standard for Fortran called Fortran 90 was introduced in early 90s and compilers for this version of Fortran were sold in early 1995 by computer vendors. All Fortran 77 programs will run without change with Fortran 90 compilers; however some aspects of Fortran 77 have been declared obsolete and will not run on future Fortran compilers_these are explained in this revised edition. An appendix consolidates these features. Fortran 90 is introduced in a new chapter which summarises all its features.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "8120311728"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9788120311725"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": true
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+            "Computers"
+        ],
+        "averageRating": 2.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=s4SoW3wa-LgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=s4SoW3wa-LgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=s4SoW3wa-LgC&printsec=frontcover&dq=computer&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=s4SoW3wa-LgC&dq=computer&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/COMPUTER_PROGRAMMING_IN_FORTRAN_77.html?hl=&id=s4SoW3wa-LgC"
+    },
+    "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/COMPUTER_PROGRAMMING_IN_FORTRAN_77-sample-pdf.acsm?id=s4SoW3wa-LgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s4SoW3wa-LgC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "This is a revised and enlarged version of the author&#39;s book which received wide acclamations in its earlier three editions."
+    }
+},
+{
+    "kind": "books#volume",
+    "id": "24KW-5GBvgIC",
+    "etag": "bnywJkev84Y",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/24KW-5GBvgIC",
+    "volumeInfo": {
+        "title": "Fumbling the Future",
+        "subtitle": "How Xerox Invented, Then Ignored, the First Personal Computer",
+        "authors": [
+            "Douglas K. Smith",
+            "Robert C. Alexander"
+        ],
+        "publisher": "iUniverse",
+        "publishedDate": "1999",
+        "description": "Ask consumers and users what names they associate with the multibillion dollar personal computer market, and they will answer IBM, Apple, Tandy, or Lotus. The more knowledgable of them will add the likes of Microsoft, Ashton-Tate, Compaq, and Borland. But no one will say Xerox. Fifteen years after it invented personal computing, Xerox still means \"copy.\" Fumbling the Future tells how one of America's leading corporations invented the technology for one of the fastest-growing products of recent times, then miscalculated and mishandled the opportunity to fully exploit it. It is a classic story of how innovation can fare within large corporate structures, the real-life odyssey of what can happen to an idea as it travels from inspiration to implementation. More than anything, Fumbling the Future is a tale of human beings whose talents, hopes, fears, habits, and prejudices determine the fate of our largest organizations and of our best ideas. In an era in which technological creativity and economic change are so critical to the competitiveness of the American economy, Fumbling the Future is a parable for our times.",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_13",
+                "identifier": "9781583482667"
+            },
+            {
+                "type": "ISBN_10",
+                "identifier": "1583482660"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 274,
+        "printType": "BOOK",
+        "categories": [
+            "Business & Economics"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=24KW-5GBvgIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=24KW-5GBvgIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=24KW-5GBvgIC&printsec=frontcover&dq=computer&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=24KW-5GBvgIC&dq=computer&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fumbling_the_Future.html?hl=&id=24KW-5GBvgIC"
+    },
+    "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.in/books/download/Fumbling_the_Future-sample-epub.acsm?id=24KW-5GBvgIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=24KW-5GBvgIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "&quot; Fumbling the Future tells how one of America&#39;s leading corporations invented the technology for one of the fastest-growing products of recent times, then miscalculated and mishandled the opportunity to fully exploit it."
+    }
+},
+{
+    "kind": "books#volume",
+    "id": "EYvtAAAAMAAJ",
+    "etag": "JbmiMmQK34w",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/EYvtAAAAMAAJ",
+    "volumeInfo": {
+        "title": "Philippine Computer Directory",
+        "publishedDate": "1989",
+        "industryIdentifiers": [
+            {
+                "type": "OTHER",
+                "identifier": "UOM:39015054098184"
+            }
+        ],
+        "readingModes": {
+            "text": false,
+            "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+            "Computer industry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.preview.0",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=EYvtAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=EYvtAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=EYvtAAAAMAAJ&q=computer&dq=computer&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=EYvtAAAAMAAJ&dq=computer&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Philippine_Computer_Directory.html?hl=&id=EYvtAAAAMAAJ"
+    },
+    "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+    },
+    "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+            "isAvailable": false
+        },
+        "pdf": {
+            "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EYvtAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+        "textSnippet": "hard disks, ARCnet cards, laser printers, scanners, Novell LAN products, Acer LAN products, Roland plotters Specialized services: \u003cb\u003eComputer\u003c/b\u003e training center (one \u003cb\u003ecomputer\u003c/b\u003e per participant) Courses available: Spreadsheet, dBase, RBase,&nbsp;..."
+    }
+}
+
+]

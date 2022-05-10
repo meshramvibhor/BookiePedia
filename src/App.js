@@ -1,23 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import LeftSide from "./components/LeftSide";
+import "./App.css";
+import RightSide from "./components/RightSide";
+import Sample from "./components/Sample";
+import { useState } from "react";
 
 function App() {
+  const [search, setSearch] = useState("");
+  const [filters, setFilters] = useState({
+    price: {
+      min: "",
+      max: "",
+    },
+    category: {
+      comics: false,
+      sports: false,
+      knowledge: false,
+    },
+  });
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="homePage">
+      <LeftSide filters={filters} setFilters={setFilters} search={search} setSearch={setSearch} />
+      <RightSide filters={filters} setFilters={setFilters} search={search} setSearch={setSearch} />
+      {/* <Sample/> */}
     </div>
   );
 }

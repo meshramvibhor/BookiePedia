@@ -1,0 +1,191 @@
+.rightContainer {
+  /* border: 1px solid blue; */
+  /* background-image: linear-gradient(to right, rgb(230, 230, 230), rgb(160, 159, 159));
+   */
+  border-radius: 1rem;
+  background-color: rgb(226, 218, 218);
+  width: 80vw;
+  flex: 1 1 auto;
+}
+
+.rightContainer h2 {
+  width: 15vw;
+  color: rgb(58, 42, 42);
+  margin-left: 2vw;
+}
+
+.boksContainer {
+  width: 75vw;
+  height: 80vh;
+  /* border: 1px solid red; */
+  display: flex;
+  flex-wrap: wrap;
+  overflow-y: scroll;
+}
+.box {
+  display: flex;
+  flex: 40 40;
+  border: 1px solid grey;
+  margin: 1vw;
+  border-radius: 1rem;
+}
+
+.box:hover {
+  box-shadow: 0.3rem 0.5rem 0.5rem rgb(100, 99, 99);
+}
+
+.boksContainer img {
+  height: 15vw;
+  margin: 1vw;
+}
+
+.title {
+  color: rgb(20, 20, 20);
+}
+
+.author {
+  color: rgb(49, 49, 49);
+}
+.publisher {
+  color: rgb(51, 51, 51);
+}
+.price {
+  color: rgb(44, 43, 43);
+}
+
+.infoContainer {
+  margin: 1vw;
+  width: 15vw;
+}
+
+.btn {
+  display: flex;
+}
+.btn span {
+  color: grey;
+  margin-top: 3vh;
+  margin-left: 1vw;
+}
+
+.btn input {
+  color: hwb(84deg 34% 10%);
+  margin-top: 3vh;
+  margin-left: 2vw;
+  width: 3vw;
+  background: rgb(214, 211, 211);
+  border: 1px solid #bf3825;
+  border-radius: 1.2vh;
+  margin-bottom: 1rem;
+}
+
+.btn1{
+  width: 8em;
+  margin-left: 42vw;
+  margin-top: 0.8em;
+  font-size: 1em;
+  background: #bf3825;
+  padding: 0.4em;
+  border-radius: 0.4em;
+  margin-bottom: 1rem;
+  height: 5vh;
+  margin-top: 3vh;
+  padding-bottom: 4vh;
+}
+.btn2{
+  width: 8em;
+  margin-left: 0.3em;
+  margin-top: 1.2em;
+  font-size: 1em;
+  background: #bf3825;
+  padding: 0.4em;
+  border-radius: 0.4em;
+  margin-bottom: 1rem;
+}
+
+.btn button:hover {
+  background-color: rgb(31, 31, 31);
+  color: #bf3825;
+  border: 0.1rem solid #bf3825;
+}
+
+@media only screen and (max-width: 600px) {
+  .rightContainer {
+    width: 100%;
+    margin-top: -19vh;
+  }
+
+  .rightContainer h2{
+    margin-left: 8vw;
+    width: 48vw;
+  }
+
+  .boksContainer{
+    display: block;
+    flex-direction: column;
+    width: 99vw;
+  }
+
+  .box{
+    height: 32vh;
+    width: 81vw;
+    margin: auto;
+  }
+
+  .title{
+    margin-top: 1.4vh;
+    width: 47vw;
+  }
+
+  .author{
+    width: 47vw;
+  }
+
+  .publisher{
+    width: 47vw;
+  }
+
+  .price{
+    width: 47vw;
+  }
+
+  .box img{
+    width: 29vw;
+    height: 27vh;
+    margin-left: 2vw;
+    margin-top: 2.2vh;
+  }
+
+  .box{
+    margin-bottom:2vh;
+  }
+
+  .btn input{
+    width: 12vw;
+    height: 5vh;
+    margin-left: 9vw;
+  }
+
+  .btn1{
+    margin-left: 0vw;
+    padding-top: 0.5rem;
+    margin-top: 4vh;
+    padding-bottom: 1rem;
+  }
+
+  .btn2{
+    margin-left: 0vw;
+    margin-top: 4vh;
+    margin-right: 4vw;
+  }
+
+  .btn input{
+    margin-bottom: 1rem;
+    margin-left: 4vw;
+  }
+
+  .rightContainer h2{
+    margin-bottom: 2vw;
+    margin-top: 3vw;
+  }
+
+}
