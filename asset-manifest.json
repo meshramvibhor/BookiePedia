@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/BookiePedia/static/css/main.23c3d995.css",
-    "main.js": "/BookiePedia/static/js/main.e9fd35e6.js",
+    "main.css": "/BookiePedia/static/css/main.6ef74dc1.css",
+    "main.js": "/BookiePedia/static/js/main.b870d7af.js",
     "static/media/random.png": "/BookiePedia/static/media/random.b244ddf4bcee2fef5bca.png",
-    "static/media/logo.png": "/BookiePedia/static/media/logo.14bce2267c3eec99c1fd.png",
+    "static/media/logo1.png": "/BookiePedia/static/media/logo1.5a80741dcdefe0bbd453.png",
     "index.html": "/BookiePedia/index.html",
-    "main.23c3d995.css.map": "/BookiePedia/static/css/main.23c3d995.css.map",
-    "main.e9fd35e6.js.map": "/BookiePedia/static/js/main.e9fd35e6.js.map"
+    "main.6ef74dc1.css.map": "/BookiePedia/static/css/main.6ef74dc1.css.map",
+    "main.b870d7af.js.map": "/BookiePedia/static/js/main.b870d7af.js.map"
   },
   "entrypoints": [
-    "static/css/main.23c3d995.css",
-    "static/js/main.e9fd35e6.js"
+    "static/css/main.6ef74dc1.css",
+    "static/js/main.b870d7af.js"
   ]
 }
