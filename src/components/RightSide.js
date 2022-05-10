@@ -127,7 +127,7 @@ const RightSide = (props) => {
                     <b>Price</b>:{" "}
                     {element.saleInfo.saleability == "FOR_SALE"
                       ? element.saleInfo.retailPrice.amount + " INR"
-                      : "nOT fOR SALE"}
+                      : "NOT FOR SALE"}
                   </div>
                 </div>
               </div>
